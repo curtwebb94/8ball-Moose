@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eightBallMoose/1.0.0": {
+        "runtime": {
+          "eightBallMoose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eightBallMoose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.exe
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.deps.json
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.runtimeconfig.json
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.runtimeconfig.dev.json
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.dll
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\ref\eightBallMoose.dll
+C:\Users\curtw\workspace\eightBallMoose\bin\Debug\net5.0\eightBallMoose.pdb
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.csproj.AssemblyReference.cache
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.AssemblyInfoInputs.cache
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.AssemblyInfo.cs
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.csproj.CoreCompileInputs.cache
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.dll
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\ref\eightBallMoose.dll
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.pdb
+C:\Users\curtw\workspace\eightBallMoose\obj\Debug\net5.0\eightBallMoose.genruntimeconfig.cache
